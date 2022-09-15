@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\bin\Debug\AppiConcurrencia.exe.config
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\bin\Debug\AppiConcurrencia.exe
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\bin\Debug\AppiConcurrencia.pdb
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.exe
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.pdb
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.CopyComplete
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\bin\Debug\AppiConcurrencia.exe.config
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\bin\Debug\AppiConcurrencia.exe
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\bin\Debug\AppiConcurrencia.pdb
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\bin\Debug\Newtonsoft.Json.dll
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\bin\Debug\Newtonsoft.Json.xml
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.AssemblyReference.cache
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.SuggestedBindingRedirects.cache
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.CoreCompileInputs.cache
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.csproj.CopyComplete
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.exe
+D:\concurrencia ejemplos\AppiConcurrencia\AppiConcurrencia\obj\Debug\AppiConcurrencia.pdb
